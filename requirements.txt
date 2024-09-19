@@ -1,0 +1,7 @@
+aiogram
+aiogram-dialog
+fastapi
+asyncio
+pymysql
+requests
+plisio
